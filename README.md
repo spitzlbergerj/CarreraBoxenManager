@@ -6,7 +6,8 @@ Bedienkonsole für eine Boxengasse mit Garagenausfahrten und Safety Car Parkplat
 ![3D-Ansicht](https://raw.githubusercontent.com/spitzlbergerj/CarreraBoxenManager/main/images/AnsichtVorne.png)  
 
 
-Bitte das **[Wiki](https://github.com/spitzlbergerj/CarreraBoxenManager/wiki/Platinen-und-Verkabelung)** beachten! 
+# Wiki mit Details zur Entwicklung und dem Zusammenbau
+Bitte das **[Wiki](https://github.com/spitzlbergerj/CarreraBoxenManager/wiki)** beachten! 
 
 
 # Ziele: Einfache Fahrzeugcodierung - Safety Car Parkplatz
