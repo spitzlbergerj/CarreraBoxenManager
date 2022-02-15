@@ -1,3 +1,5 @@
+Achtung: Work in Progress - ich bin noch nicht fertig - es sind noch Korrekturen, Verbesserungen, Hinweise notwendig
+
 # CarreraBoxenManager
 Bedienkonsole für eine Boxengasse mit Garagenausfahrten und Safety Car Parkplatz - 3D-Drucke, Schaltung
 
