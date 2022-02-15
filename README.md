@@ -5,7 +5,11 @@ Bedienkonsole für eine Boxengasse mit Garagenausfahrten und Safety Car Parkplat
 
 ![3D-Ansicht](https://raw.githubusercontent.com/spitzlbergerj/CarreraBoxenManager/main/images/AnsichtVorne.png)  
 
-# Boxengasse deluxe - einfache Fahrzeugcodierung - Safety Car Parkplatz
+
+Bitte das **[Wiki](https://github.com/spitzlbergerj/CarreraBoxenManager/wiki/Platinen-und-Verkabelung)** beachten! 
+
+
+# Ziele: Einfache Fahrzeugcodierung - Safety Car Parkplatz
 
 Hallo in die Runde,
 nach vielen Stunden CAD Design, 3D Druck und Löten ist er nun fertig, mein BoxenManager. Die Idee dazu entstand, weil mir die übliche Methode zur Fahrzeugcodierung nicht wirklich gefiel und weil sich die Garageneinfahren von Comeo geradezu anboten, sie für eine elegante Codierung zu nutzen.
