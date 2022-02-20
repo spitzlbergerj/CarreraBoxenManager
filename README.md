@@ -5,6 +5,8 @@ Bedienkonsole für eine Boxengasse mit Garagenausfahrten und Safety Car Parkplat
 
 ![3D-Ansicht](https://raw.githubusercontent.com/spitzlbergerj/CarreraBoxenManager/main/images/AnsichtVorne.png)  
 
+![vollständige Pit Lane mit Garagenausfahrten](https://raw.githubusercontent.com/spitzlbergerj/CarreraBoxenManager/main/images/Boxengasse-Garagen.png) 
+(c) Garagenausfahrten Sebastian Möller, Laage, Comeo - https://www.slottrackparts.de/
 
 # Wiki mit Details zur Entwicklung und dem Zusammenbau
 Bitte das **[Wiki](https://github.com/spitzlbergerj/CarreraBoxenManager/wiki)** beachten! 
@@ -55,7 +57,7 @@ nach vielen Stunden CAD Design, 3D Druck und Löten ist er nun fertig, mein Boxe
 	--> Fahrzeugcodierung soweit Test des Handregler, ohne dass das Fahrzeug aus der Garage fährt, so dass weitere Codierungen nach Umschalten auf die nächste Garage möglich sind
 
 ## Garageneinfahren von Comeo
-	- Design und Fertigung der 60° Einfahren von Comeo
+	- Design und Fertigung der 60° Einfahren von Sebastian Möller, Laage, Comeo - https://www.slottrackparts.de/
 	- 1/2 einspurige Gerade als "Garage"
 	- Linke Schiene (Pluspol) der Einfahrt nicht mit der Bahn sondern mit BoxenManager verbunden
 	- Hebevorrichtung für Hinterachse aus 3D Druck und E-Magnet, der vom BoxenManager angesteuert wird
