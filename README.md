@@ -14,8 +14,7 @@ Bitte das **[Wiki](https://github.com/spitzlbergerj/CarreraBoxenManager/wiki)** 
 
 # Ziele: Einfache Fahrzeugcodierung - Safety Car Parkplatz
 
-Hallo in die Runde,
-nach vielen Stunden CAD Design, 3D Druck und Löten ist er nun fertig, mein BoxenManager. Die Idee dazu entstand, weil mir die übliche Methode zur Fahrzeugcodierung nicht wirklich gefiel und weil sich die Garageneinfahren von Comeo geradezu anboten, sie für eine elegante Codierung zu nutzen.
+Nach vielen Stunden CAD Design, 3D Druck und Löten ist er nun fertig, mein BoxenManager. Die Idee dazu entstand, weil mir die übliche Methode zur Fahrzeugcodierung nicht wirklich gefiel und weil sich die Garageneinfahren von Comeo geradezu anboten, sie für eine elegante Codierung zu nutzen.
 
 ## Eigenschaften und Funktionen:
 - Gehäuse im Stil der CU, montiert auf Randstreifen Standardgerade
@@ -75,19 +74,27 @@ nach vielen Stunden CAD Design, 3D Druck und Löten ist er nun fertig, mein Boxe
 - Kreuzung damit beide Tankplätze unabhängig angefahren werden können 
 - Entkoppelung der ersten beiden Boxeneinfahrten
 
-## Verteilung an den Garagen
-- 16 Pol Stecker zur Verbindung mit dem BoxenManager über Flachbandkabel
-- 2 Pol Kabel für Zusatzeinspeisungsversorgung 
-- Verteilung für Zusatzeinspeisungen 
+## Verkabelung Boxenmanager und Garagen
+- 16 Pol Stecker zur Verbindung zwischen BoxenManager und dem Verteilergehäuse an den Garagen über ein Flachbandkabel
+- 2 poliges Kabel für Zusatzeinspeisungsversorgung von der CU zum Verteilergehäuse ZE
 
-## Garagenabschluss
-- Abschlußgehäuse der geteilten Einspurgeraden
-- Hebevorrichtung für Hinterachse
+## Garagengehäuse, Verteilergehäuse, Garagendächer
+- Standard-Einspurgeraden wurden mittig im Winkel von 60° geteilt
+- Am Ende jeder Einspurgerade-Häften befindet sich ein Gehäuse
+- In diesem Gehäuse befindet sich der Hebemagnet, das Schaltrelais für die Stromversorgung der Garage sowie weitere Verkabelung
+- Auf der Einspurgeraden ist eine Hebevorrichtung für die Hinterachse der Fahrzeuge moniert. Montage nur durch Einstecken eines Achsaufnahme in den Slot
+- Zwischen den Schienenendgehäusen befinden sich Verteilergehäuse frü den Boxenmanager, die Zusatzeinspeisung sowie für die Steuerung der Stromversorgung des Safety Car Parkplatzes
+
+## Safety Car parkplatz
+- 3. Boxeneinfahrt 
+- nicht entkoppelt, damit das Safety Car nach Einfahrt stehen bleibt
+- Codierleitung jedoch unterbrochen und mit einem Schaltrelais auf NC (normally closed) verbunden
+- Das Schaltrelais wird über ein ODER-Gatter angesteuert. Ist eine der Garagen stromversorgt, schaltet das Relais und unterbricht dadurch die Stromzufuhr zum Parkplatz
 
 ## Flachbandkabel
-- Der Leitungsquerschnitt ist nominal ausreichend
-- In der Garage erfolgt nur das Codieren und ein kurzer Test
-- Safety Car Parkplatz wird über Relais angesteuert, so dass der Parkplatz von den Schienen stromversorgt wird
+- Der Leitungsquerschnitt ist für die Steuerungssignale ausreichend
+- die Garagenschienen und der SafgetyCar parkplatz werden über Relais mit dem normalen Bahnstrom versorgt
+- Lediglich der Magnet wird direkt über das Flachbandkabel stromversorgt
 - Eignet sich gut, um viele Adern unter den Schienen zu führen
 
 ## Braucht man den BoxenManager?
@@ -95,3 +102,4 @@ nach vielen Stunden CAD Design, 3D Druck und Löten ist er nun fertig, mein Boxe
 - Es war aber ein Riesenspaß das Gehäuse möglichst originalgetreu zu designen
 - Ich habe unendlich viel gelernt in der Bedienung von FreeCAD
 - Das Gehäuse können nun auch andere für ggf. sinnvollere Erweiterungen genutzt werden
+- Das praktische Begreifen der Hebelgesetze und die Suche nach Möglichkeiten mit kleinen Hebelwegen die Fahrzeuge effektiv anzuheben war herausfordernd und hat wieder viel Spaß gemacht
