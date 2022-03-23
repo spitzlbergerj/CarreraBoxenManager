@@ -68,6 +68,8 @@ Nach vielen Stunden CAD Design, 3D Druck und Löten ist er nun fertig, mein Boxe
 (c) Garagenausfahrten, teilweise noch Entwicklungsversionen, Sebastian Möller, Laage, Comeo - https://www.slottrackparts.de/
 
 ## Boxengasse aus 3 Carrera Pitlanes
+![vollständige Pit Lane mit Garagenausfahrten](https://raw.githubusercontent.com/spitzlbergerj/CarreraBoxenManager/main/images/Boxengasse-Garagen.png) 
+(c) Garagenausfahrten Sebastian Möller, Laage, Comeo - https://www.slottrackparts.de/
 - 2 Tankplätze
 - Safety Car Parkplatz 
 - 6 Garageneinfahren
@@ -80,11 +82,14 @@ Nach vielen Stunden CAD Design, 3D Druck und Löten ist er nun fertig, mein Boxe
 - 2 poliges Kabel für Zusatzeinspeisungsversorgung von der CU zum Verteilergehäuse ZE
 
 ## Garagengehäuse, Verteilergehäuse, Garagendächer
+![Garagenausfahrten](https://raw.githubusercontent.com/spitzlbergerj/CarreraBoxenManager/main/images/Boxenmanager-mittlere-Garagen.jpg)
 - Standard-Einspurgeraden wurden mittig im Winkel von 60° geteilt
 - Am Ende jeder Einspurgerade-Häften befindet sich ein Gehäuse
 - In diesem Gehäuse befindet sich der Hebemagnet, das Schaltrelais für die Stromversorgung der Garage sowie weitere Verkabelung
 - Auf der Einspurgeraden ist eine Hebevorrichtung für die Hinterachse der Fahrzeuge moniert. Montage nur durch Einstecken eines Achsaufnahme in den Slot
 - Zwischen den Schienenendgehäusen befinden sich Verteilergehäuse frü den Boxenmanager, die Zusatzeinspeisung sowie für die Steuerung der Stromversorgung des Safety Car Parkplatzes
+![Garagenausfahrten](https://raw.githubusercontent.com/spitzlbergerj/CarreraBoxenManager/main/images/BoxenManager-Kabelbaum Verteiler.jpg)
+![Garagenausfahrten](https://raw.githubusercontent.com/spitzlbergerj/CarreraBoxenManager/main/images/Boxenmanager-Schiene-Endgehaeuse-Aufsicht.jpg)
 
 ## Safety Car parkplatz
 - 3. Boxeneinfahrt 
