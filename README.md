@@ -88,7 +88,7 @@ Nach vielen Stunden CAD Design, 3D Druck und Löten ist er nun fertig, mein Boxe
 - In diesem Gehäuse befindet sich der Hebemagnet, das Schaltrelais für die Stromversorgung der Garage sowie weitere Verkabelung
 - Auf der Einspurgeraden ist eine Hebevorrichtung für die Hinterachse der Fahrzeuge moniert. Montage nur durch Einstecken eines Achsaufnahme in den Slot
 - Zwischen den Schienenendgehäusen befinden sich Verteilergehäuse frü den Boxenmanager, die Zusatzeinspeisung sowie für die Steuerung der Stromversorgung des Safety Car Parkplatzes
-![Garagenausfahrten](https://raw.githubusercontent.com/spitzlbergerj/CarreraBoxenManager/main/images/BoxenManager-Kabelbaum Verteiler.jpg)
+![Garagenausfahrten](https://raw.githubusercontent.com/spitzlbergerj/CarreraBoxenManager/main/images/BoxenManager-Kabelbaum-Verteiler.jpg)
 ![Garagenausfahrten](https://raw.githubusercontent.com/spitzlbergerj/CarreraBoxenManager/main/images/Boxenmanager-Schiene-Endgehaeuse-Aufsicht.jpg)
 
 ## Safety Car parkplatz
