@@ -32,6 +32,7 @@ Nach vielen Stunden CAD Design, 3D Druck und Löten ist er nun fertig, mein Boxe
 # Details
 
 ## BoxenManager
+![3D-Ansicht](https://raw.githubusercontent.com/spitzlbergerj/CarreraBoxenManager/main/images/AnsichtVorne.png)  
 - Randstreifen Standardgerade als Montagebasis
 - 3D gedrucktes Gehäuse im CU Stil
 - 8 Schrauben zur Montage des Gehäuses auf dem Randstreifen Standardgerade 
